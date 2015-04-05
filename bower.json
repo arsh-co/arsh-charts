@@ -1,6 +1,6 @@
 {
   "name": "arsh-charts",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "homepage": "https://github.com/arsh-co/arsh-charts",
   "authors": [
     "AmirAli Akbari <akbari@arsh.co>"
@@ -15,7 +15,7 @@
     "tests",
     "src",
     "bower.json",
-    "gruntfile.js",
+    "gulpfile.js",
     "package.json",
     "README.md",
     "LICENSE"

@@ -1,6 +1,6 @@
 {
   "name": "arsh-charts",
-  "version": "0.0.0",
+  "version": "0.0.2",
   "description": "JS bundle for arsh-charts python library, including bower dependencies.",
   "main": "gulpfile.js",
   "dependencies": {},
