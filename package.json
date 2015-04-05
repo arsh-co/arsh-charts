@@ -1,0 +1,25 @@
+{
+  "name": "arsh-charts",
+  "version": "0.0.0",
+  "description": "JS bundle for arsh-charts python library, including bower dependencies.",
+  "main": "gulpfile.js",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "~3.8.11",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^1.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/arsh-co/arsh-charts.git"
+  },
+  "author": "",
+  "license": "GPL v2 (or later)",
+  "bugs": {
+    "url": "https://github.com/arsh-co/arsh-charts/issues"
+  },
+  "homepage": "https://github.com/arsh-co/arsh-charts"
+}

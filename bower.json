@@ -1,0 +1,27 @@
+{
+  "name": "arsh-charts",
+  "version": "0.0.1",
+  "homepage": "https://github.com/arsh-co/arsh-charts",
+  "authors": [
+    "AmirAli Akbari <akbari@arsh.co>"
+  ],
+  "description": "JS bundle for arsh-charts python library, including bower dependencies.",
+  "main": "dist/arsh_charts.min.js",
+  "license": "GPLv2 (or later)",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "tests",
+    "src",
+    "bower.json",
+    "gruntfile.js",
+    "package.json",
+    "README.md",
+    "LICENSE"
+  ],
+  "dependencies": {
+    "highcharts": ">=4.0.0",
+    "underscore": ">=1.6.0"
+  }
+}
